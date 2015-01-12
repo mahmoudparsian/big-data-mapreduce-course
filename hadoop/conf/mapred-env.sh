@@ -14,7 +14,7 @@
 # limitations under the License.
 
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_60.jdk/Contents/Home
-export HADOOP_HOME=/Users/mparsian/zmp/zs/hadoop-2.6.0
+export HADOOP_HOME=/Users/mparsian/hadoop-2.6.0
 export HADOOP_MAPRED_HOME=$HADOOP_HOME
 export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
 export HADOOP_PID_DIR=$HADOOP_HOME/pids

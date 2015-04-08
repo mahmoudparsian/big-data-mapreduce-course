@@ -1,3 +1,6 @@
+pyspark-tutorial-
+pyspark-tutorial provides basic algorithms using pyspark
+
 interactive session: valid and tested: Feb. 23, 2015
 
 mparsian@Mahmouds-MacBook:~/zmp/BigData-MapReduce-Course/pyspark# cat data.txt

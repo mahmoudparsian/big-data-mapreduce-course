@@ -74,7 +74,7 @@ $ mkdir -p /Users/mparsian/dev/hdfs/snn
 $ rm -f /Users/mparsian/hadoop-2.6.0/etc/hadoop/*
 ````
 
-4.2 Copy files from https://github.com/mahmoudparsian/BigData-MapReduce-Course/hadoop/conf/* 
+4.2 Copy files from https://github.com/mahmoudparsian/big-data-mapreduce-course/hadoop/conf/* 
 to /Users/mparsian/hadoop-2.6.0/etc/hadoop/
 
 4.3 Replace "mparsian" with "alex" for all files in 
@@ -86,7 +86,7 @@ to /Users/mparsian/hadoop-2.6.0/etc/hadoop/
 5.1 Create a bin directory
 $ mkdir -p /Users/mparsian/bin
 
-5.2 Copy files from https://github.com/mahmoudparsian/BigData-MapReduce-Course/hadoop/bin/* 
+5.2 Copy files from https://github.com/mahmoudparsian/big-data-mapreduce-course/hadoop/bin/* 
 to /Users/mparsian/bin/
 
 5.3 Replace "mparsian" with "alex" for all files in 

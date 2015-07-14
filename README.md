@@ -12,8 +12,8 @@ Big-Data-MapReduce-Course
 Data Algorithms: Recipes for Scaling up with Hadoop and Spark
 
 
-Early Release Version                                                                              | Production Version (July 2015)
----------------------------------------------------------------------------------------------------|-------------------------------
+Early Release Version                                                                                                                                   | Production Version (July 2015)
+--------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Data Algorithms Book](https://github.com/mahmoudparsian/data-algorithms-book/misc/da_small.gif)](http://shop.oreilly.com/product/0636920033950.do)   | [![Data Algorithms Book](https://github.com/mahmoudparsian/data-algorithms-book/misc/da_book3.jpeg)](http://shop.oreilly.com/product/0636920033950.do)
  
  

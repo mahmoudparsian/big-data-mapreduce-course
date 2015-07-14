@@ -27,4 +27,4 @@ Big-Data-MapReduce-Course
 Data Algorithms: Recipes for Scaling up with Hadoop and Spark
 
 
-[![Data Algorithms Book](https://github.com/mahmoudparsian/data-algorithms-book/misc/data_algorithms_image.jpg)](http://shop.oreilly.com/product/0636920033950.do)
+[![Data Algorithms Book](http://github.com/mahmoudparsian/data-algorithms-book/misc/data_algorithms_image.jpg)](http://shop.oreilly.com/product/0636920033950.do)

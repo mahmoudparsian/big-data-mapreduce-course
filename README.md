@@ -13,7 +13,8 @@ Description
 * The main focus of this class is to teach distributed computing and scale-out architectures (Hadoop and Spark)
 * Use Spark, Py-Spark, Hadoop, and Java to teach MapReduce and distributed computing
 
-
+My latest book:
+===============
 [Data Algorithms Book](http://shop.oreilly.com/product/0636920033950.do)
 ======================
 Data Algorithms: Recipes for Scaling up with Hadoop and Spark

@@ -1,9 +1,10 @@
 Big-Data-MapReduce-Course
 =========================
-* MSIS 2696: Big Data
+* Winter 2016: Graduate Business, Leavey School of Business
+* MSIS 2627: Big Data
 * Big-Data/MapReduce Course @ Santa Clara University
-* Spring 2015 (March-June, 2015)
-* Class hours: Tuesday & Thurday 5:45pm - 7:00pm
+* Winter 2016 (January-March, 2016)
+* Class hours: Tuesday & Thurday 5:45pm - 7:00pm PST
 * Class room: Lucas Hall 310 
 * Office: 221X Lucas Hall
 

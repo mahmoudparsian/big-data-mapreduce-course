@@ -11,8 +11,16 @@ Big-Data-MapReduce-Course
 	* [Data-Intensive Text Processing with MapReduce by Jimmy Lin and Chris Dyer](https://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
 	* [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 
+
+Description
+===========
+* The main focus of this class is to teach distributed computing and scale-out architectures (Hadoop and Spark)
+* Use Spark, Py-Spark, Hadoop, and Java to teach MapReduce and distributed computing
+
 ---------------------------
-My latest book:	
+
+My latest book:
+
 [Data Algorithms Book](http://shop.oreilly.com/product/0636920033950.do)
 ======================
 Data Algorithms: Recipes for Scaling up with Hadoop and Spark

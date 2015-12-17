@@ -1,4 +1,4 @@
-Big-Data-MapReduce-Course
+[Big-Data-MapReduce-Course](http://www.scu.edu/courseavail/class/?fuseaction=details&acad_career=BUSN&subject=MSIS&class_nbr=32603&term=3720)
 =========================
 * Winter 2016: Graduate Business, Leavey School of Business
 * Course MSIS 2627: Big Data Modeling & Analytics

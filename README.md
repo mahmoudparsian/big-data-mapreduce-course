@@ -1,4 +1,4 @@
-Big-Data-MapReduce-Course
+[Big-Data-MapReduce-Course](http://www.scu.edu/courseavail/class/?fuseaction=details&acad_career=BUSN&subject=MSIS&class_nbr=32603&term=3720)
 =========================
 * Winter 2016: Graduate Business, Leavey School of Business
 * Course MSIS 2627: Big Data Modeling & Analytics
@@ -6,7 +6,7 @@ Big-Data-MapReduce-Course
 * Class duration: January-March, 2016
 * Class hours: Tuesday & Thurday 5:45pm - 7:00pm PST
 * Class room: Lucas Hall 210 
-* Office: 221X Lucas Hall
+* Office: 321 T, Lucas Hall
 * Required books (all resources are online):
 	* [Data-Intensive Text Processing with MapReduce by Jimmy Lin and Chris Dyer](https://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
 	* [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)

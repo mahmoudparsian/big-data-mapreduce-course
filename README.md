@@ -12,6 +12,12 @@
 	* [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 
 
+Midterm Exam: Tuesday, February 2, 2016 from 5:45pm-7:00pm PST
+==============================================================
+
+Final Exam: Tuesday, March 15, 2016 from 5:45pm-7:45pm PST
+==========================================================
+
 Description
 ===========
 * The main focus of this class is to teach distributed computing and scale-out architectures (Hadoop and Spark)

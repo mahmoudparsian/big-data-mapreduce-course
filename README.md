@@ -17,14 +17,20 @@
 
 
 Midterm Exam: TBDL
-==============================================================
+------------------
 
 Final Exam: Tuesday, June 7, 2016 from 5:45pm-7:45pm PST
-==========================================================
+--------------------------------------------------------
 
 Description
 ===========
-* The main focus of this class is to teach distributed computing and scale-out architectures (Hadoop and Spark)
+
+The main focus of this class is to teach 
+
+* Concepts of Big Data
+* Distributed computing
+* MapReduce paradigm
+* Scale-out architectures (using Hadoop and Spark)
 * Use Spark, Py-Spark, Hadoop, and Java to teach MapReduce and distributed computing
 
 ---------------------------

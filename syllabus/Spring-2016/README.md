@@ -1,4 +1,4 @@
-![Santa Clara University](http://worldclassedu.work/wp-content/uploads/2015/12/Santa-Clara-University.jpg =100x100)
+[Santa Clara University](http://worldclassedu.work/wp-content/uploads/2015/12/Santa-Clara-University.jpg =100x100)
 
 
 Big Data Modeling and Analytics

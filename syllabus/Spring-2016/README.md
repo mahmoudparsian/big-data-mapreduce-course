@@ -1,7 +1,10 @@
-![](http://worldclassedu.work/wp-content/uploads/2015/12/Santa-Clara-University.jpg =100x100)
+![Santa Clara University](http://worldclassedu.work/wp-content/uploads/2015/12/Santa-Clara-University.jpg =100x100)
 
+
+Big Data Modeling and Analytics
+===============================
 Course Information: Spring 2016
-==================
+================================
  [MSIS 2627 : Big Data Modeling and Analytics](https://legacy.scu.edu/legacy/courseavail/t4/catalog.cfm?subject=MSIS&acad_career=GRAD#collapse11)
  
  * Class hours: 

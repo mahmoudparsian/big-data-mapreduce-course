@@ -1,21 +1,25 @@
+[Santa Clara University](http://scu.edu/)
+-----------------------------------------
+
 [Big-Data-MapReduce-Course](http://www.scu.edu/courseavail/class/?fuseaction=details&acad_career=BUSN&subject=MSIS&class_nbr=32603&term=3720)
 =========================
-* Winter 2016: Graduate Business, Leavey School of Business
+* Spring 2016: Graduate Business, Leavey School of Business
 * Course MSIS 2627: Big Data Modeling & Analytics
 * Big-Data/MapReduce Course @ Santa Clara University
-* Class duration: January-March, 2016
+* Class duration: March 28 - June 7, 2016
 * Class hours: Tuesday & Thurday 5:45pm - 7:00pm PST
 * Class room: Lucas Hall 210 
 * Office: 321 T, Lucas Hall
 * Required books (all resources are online):
-	* [Data-Intensive Text Processing with MapReduce by Jimmy Lin and Chris Dyer](https://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
-	* [Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
+	* [1. Introduction to MapReduce by Mahmoud Parsian](http://mapreduce4hackers.com/docs/Introduction-to-MapReduce.pdf)
+	* [2. Data-Intensive Text Processing with MapReduce by Jimmy Lin and Chris Dyer](https://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
+	* [3. Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 
 
-Midterm Exam: Tuesday, February 2, 2016 from 5:45pm-7:00pm PST
+Midterm Exam: TBDL
 ==============================================================
 
-Final Exam: Tuesday, March 15, 2016 from 5:45pm-7:45pm PST
+Final Exam: Tuesday, June 7, 2016 from 5:45pm-7:45pm PST
 ==========================================================
 
 Description

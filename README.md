@@ -15,6 +15,8 @@
 	* [2. Data-Intensive Text Processing with MapReduce by Jimmy Lin and Chris Dyer](https://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
 	* [3. Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 
+[syllabus](./syllabus/Spring-2016/)
+------------------------------------
 
 Midterm Exam: TBDL
 ------------------

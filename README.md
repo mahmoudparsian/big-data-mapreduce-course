@@ -1,7 +1,7 @@
 [Santa Clara University](http://scu.edu/)
 -----------------------------------------
 
-[Big-Data-MapReduce-Course](https://www.scu.edu/business/ms-information-systems/curriculum/specialization-tracks/)
+[Big-Data-MapReduce-Course](https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/)
 ----------------------------
 
 Course Information

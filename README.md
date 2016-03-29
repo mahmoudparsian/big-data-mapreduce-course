@@ -26,13 +26,12 @@ Final Exam: Tuesday, June 7, 2016 from 5:45pm-7:45pm PST
 
 Description
 ===========
-
-The main focus of this class is to teach 
-
+The main focus of this class is to cover the following concepts:
 * Concepts of Big Data
 * Distributed computing
 * MapReduce paradigm
 * Scale-out architectures (using Hadoop and Spark)
+* Spark DAG
 * Use Spark, Py-Spark, Hadoop, and Java to teach MapReduce and distributed computing
 
 ---------------------------

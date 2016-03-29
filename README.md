@@ -1,8 +1,11 @@
 [Santa Clara University](http://scu.edu/)
 -----------------------------------------
 
-[Big-Data-MapReduce-Course](http://www.scu.edu/courseavail/class/?fuseaction=details&acad_career=BUSN&subject=MSIS&class_nbr=32603&term=3720)
-=========================
+[Big-Data-MapReduce-Course](https://www.scu.edu/business/ms-information-systems/curriculum/specialization-tracks/)
+----------------------------
+
+Course Information
+------------------
 * Spring 2016: Graduate Business, Leavey School of Business
 * Course MSIS 2627: Big Data Modeling & Analytics
 * Big-Data/MapReduce Course @ Santa Clara University
@@ -25,7 +28,7 @@ Final Exam: Tuesday, June 7, 2016 from 5:45pm-7:45pm PST
 --------------------------------------------------------
 
 Description
-===========
+-----------
 The main focus of this class is to cover the following concepts:
 * Concepts of Big Data
 * Distributed computing

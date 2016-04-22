@@ -21,7 +21,7 @@ Course Information
 [Syllabus](./syllabus/Spring-2016/)
 ------------------------------------
 
-Midterm Exam: TBDL
+Midterm Exam: May 3, 2016 from 5:45pm to 7:00pm PST
 ------------------
 
 Final Exam: Tuesday, June 7, 2016 from 5:45pm-7:45pm PST

@@ -6,11 +6,13 @@
 
 Course Information
 ------------------
-* Spring 2016: Graduate Business, Leavey School of Business
+* Fall 2016: Graduate Business, Leavey School of Business
 * Course MSIS 2627: Big Data Modeling & Analytics
 * Big-Data/MapReduce Course @ Santa Clara University
-* Class duration: March 28 - June 7, 2016
-* Class hours: Tuesday & Thurday 5:45pm - 7:00pm PST
+* Class duration: September 19 - December 8, 2016
+* Class hours: 
+** Monday 5:45pm - 7:00pm PST
+** Wednesday 5:45pm - 7:00pm PST
 * Class room: Lucas Hall 210 
 * Office: 321 T, Lucas Hall
 * Required books (all resources are online):
@@ -18,13 +20,13 @@ Course Information
 	* [2. Data-Intensive Text Processing with MapReduce by Jimmy Lin and Chris Dyer](https://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
 	* [3. Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 
-[Syllabus](./syllabus/Spring-2016/)
+[Syllabus](./syllabus/Fall-2016/)
 ------------------------------------
 
-Midterm Exam: May 3, 2016 from 5:45pm to 7:00pm PST
+Midterm Exam: TBDL, 2016 from 5:45pm to 7:00pm PST
 ------------------
 
-Final Exam: Tuesday, June 7, 2016 from 5:45pm-7:45pm PST
+Final Exam: Monday, December 5, 2016 from 5:45pm-7:45pm PST
 --------------------------------------------------------
 
 Description
@@ -32,8 +34,9 @@ Description
 The main focus of this class is to cover the following concepts:
 * Concepts of Big Data
 * Distributed computing
+* Distributed algorithms
 * MapReduce paradigm
-* Scale-out architectures (using Hadoop and Spark)
+* Scale-out architectures (using Hadoop, Spark, PySpark)
 * Spark DAG
 * Use Spark, Py-Spark, Hadoop, and Java to teach MapReduce and distributed computing
 

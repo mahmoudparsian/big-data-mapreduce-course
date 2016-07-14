@@ -33,11 +33,12 @@ Description
 -----------
 The main focus of this class is to cover the following concepts:
 * Concepts of Big Data
-* Distributed computing
-* Distributed algorithms
-* MapReduce paradigm
-* Scale-out architectures (using Hadoop, Spark, PySpark)
-* Spark DAG
+* Distributed File Systems
+* Distributed Computing
+* Distributed and Parallel Algorithms
+* MapReduce Paradigm
+* Scale-out Architectures (using Hadoop, Spark, PySpark)
+* Apache Spark: http://spark.apache.org/
 * Use Spark, Py-Spark, Hadoop, and Java to teach MapReduce and distributed computing
 
 ---------------------------

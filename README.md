@@ -13,7 +13,7 @@ Course Information
 * Class hours: 
 	* Monday 5:45pm - 7:00pm PST
 	* Wednesday 5:45pm - 7:00pm PST
-* Class room: Lucas Hall 210 
+* Class room: Lucas Hall 208 
 * Office: 321 T, Lucas Hall
 * Required books (all resources are online):
 	* [1. Introduction to MapReduce by Mahmoud Parsian](http://mapreduce4hackers.com/docs/Introduction-to-MapReduce.pdf)

@@ -10,8 +10,9 @@ Course Information: Fall 2016
  
  * Class hours: 
  	* Monday, 5:45pm - 7:00pm PST
-    * Wednesday, 5:45pm - 7:00pm PST
- * Class room: Lucas Hall 310 
+ 	* Wednesday, 5:45pm - 7:00pm PST
+ 	
+ * Class room: Lucas Hall 208 
 
  * Adjunct Lecturer: Mahmoud Parsian
 	* Ph.D in Computer Science

@@ -13,7 +13,7 @@ Course Information
 * Class hours: 
 	* Monday 5:45pm - 7:00pm PST
 	* Wednesday 5:45pm - 7:00pm PST
-* Class room: Lucas Hall 210 
+* Class room: Lucas Hall 208 
 * Office: 321 T, Lucas Hall
 * Required books and papers (all resources are online):
 	* [1. A  Very Brief  Introduction  to  MapReduce by Diana  MacLean](http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)

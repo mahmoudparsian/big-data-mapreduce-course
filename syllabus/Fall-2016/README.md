@@ -61,11 +61,11 @@ References and Papers
  
 * [1. Big Data Now -- book](http://www.oreilly.com/data/free/files/bigdatanow2013.pdf)
 
-* [2. MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat](~/slides/mapreduce/MapReduce_Simplified_Data_Processing_on_Large_Clusters_by_Jeff_Dean.pdf)
+* [2. MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat](https://github.com/mahmoudparsian/big-data-mapreduce-course/tree/master/slides/mapreduce/MapReduce_Simplified_Data_Processing_on_Large_Clusters_by_Jeff_Dean.pdf)
 
-* [3. Designing Good Mapreduce Algorithms by Ullman](~/slides/mapreduce/Designing-Good-MapReduce-Algorithms-Ullman-2012.pdf)
+* [3. Designing Good Mapreduce Algorithms by Ullman](https://github.com/mahmoudparsian/big-data-mapreduce-course/tree/master/slides/mapreduce/Designing-Good-MapReduce-Algorithms-Ullman-2012.pdf)
          
-* [4: Bigtable: A Distributed Storage System for Structured Data](~/slides/mapreduce/Bigtable_A_Distributed_Storage_System_for_Structured_Data.pdf)
+* [4: Bigtable: A Distributed Storage System for Structured Data](https://github.com/mahmoudparsian/big-data-mapreduce-course/tree/master/slides/mapreduce/Bigtable_A_Distributed_Storage_System_for_Structured_Data.pdf)
 
 
 Grade Distribution:

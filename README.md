@@ -4,16 +4,16 @@
 [Big-Data-MapReduce-Course](https://www.scu.edu/business/ms-information-systems/curriculum/msis-courses/)
 ----------------------------
 
-Course Information
-------------------
-* Fall 2016: Graduate Business, Leavey School of Business
+## Course Information
+* Spring 2017: Graduate Business, Leavey School of Business
 * Course MSIS 2627: Big Data Modeling & Analytics
-* Big-Data/MapReduce Course @ Santa Clara University
-* Class duration: September 19 - December 8, 2016
+* Big-Data-MapReduce Course @ Santa Clara University
+* Class number: 52085
+* Class duration: April 3 - June 9, 2017
 * Class hours: 
-	* Monday 5:45pm - 7:00pm PST
-	* Wednesday 5:45pm - 7:00pm PST
-* Class room: Lucas Hall 208 
+	* Tuesday 5:45pm - 7:00pm PST
+	* Thursday 5:45pm - 7:00pm PST
+* Class room: Lucas Hall 310 
 * Office: 321 T, Lucas Hall
 * Required books and papers (all resources are online):
 	* [1. A  Very Brief  Introduction  to  MapReduce by Diana  MacLean](http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)
@@ -21,18 +21,15 @@ Course Information
 	* [3. Data-Intensive Text Processing with MapReduce by Jimmy Lin and Chris Dyer](https://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
 	* [4. Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 
-[Syllabus](./syllabus/Fall-2016/)
-------------------------------------
+## [Syllabus](./syllabus/2017-Spring/)
 
-Midterm Exam: TBDL, 2016 from 5:45pm to 7:00pm PST
-------------------
+## Exam Dates
+* Midterm Exam: May (To-Be-Determined-Later), 2017 from 5:45pm to 7:00pm PST
+* Final Exam: Tuesday, June 13, 2017 from 5:45pm-7:45pm PST
 
-Final Exam: Monday, December 5, 2016 from 5:45pm-7:45pm PST
---------------------------------------------------------
-
-Description
------------
+## Course Description
 The main focus of this class is to cover the following concepts:
+
 * Concepts of Big Data
 * Distributed File Systems
 * Distributed Computing
@@ -44,7 +41,7 @@ The main focus of this class is to cover the following concepts:
 
 ---------------------------
 
-My latest book:
+## My latest book: 
 
 [Data Algorithms Book](http://shop.oreilly.com/product/0636920033950.do)
 ======================

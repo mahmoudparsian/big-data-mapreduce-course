@@ -160,34 +160,14 @@ Tentative Course Outline
 The weekly coverage might change as it depends on the progress of the class.  
 However, you must keep up with the reading assignments.
 
-Sequence| Date | Description
---------|------|----------
-1.0     |Alpha |<ul><li>Supports</li><li>lists</li><li>with HTML</li></ul>
-2.0     |Alpha |<ul><li>Supports</li><li>lists</li><li>with HTML</li></ul>
-3.0     |Alpha |<ul><li>Supports</li><li>lists</li><li>with HTML</li></ul>
 
 <table>
   <tbody>
-    <tr>
-      <th align="center">Sequence</th>
-      <th align="center">Date</th>
-      <th align="left">Description</th>
-    </tr>
-    </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr>
-      <th align="center">Sequence</th>
-      <th align="center">Date</th>
-      <th align="left">Description</th>
-    </tr>
 
     <tr>
       <td>1</td>
       <td align="center">April 4, 2017</td>
-	  <td>
+		<td>
 		<ul>
 			<li>Introduction to Big Data
 			</li>
@@ -199,7 +179,6 @@ Sequence| Date | Description
 			</li>
 		</ul>
 		</td>
-
     </tr>
 
     <tr>
@@ -212,15 +191,12 @@ Sequence| Date | Description
 			<li>
 				<a href="http://mapreduce4hackers.com/docs/Introduction-to-MapReduce.pdf">Introduction to MapReduce by Mahmoud Parsian</a>
 			</li>
-
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >Chapter 2 of Data-Intensive Text Processing with MapReduce</a>
+			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf">Chapter 2 of Data-Intensive Text Processing with MapReduce</a>
 			</li>
 			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
 			</li>
-
 		</ul>
 		</td>
-
     </tr>
 
     <tr>
@@ -230,19 +206,15 @@ Sequence| Date | Description
 		<ul>
 			<li>Introduction to MapReduce: Watch a Video
 			</li>
-
 			<li> <a href="https://www.youtube.com/watch?v=oSj2vYw5RLs">The Future of Big Data by Matei Zaharia</a>
 			</li>
 			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >1st half of Chapter 3 of Data-Intensive Text Processing with MapReduce</a>
 			</li>
 			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
 			</li>
-
 		</ul>
 		</td>
-
     </tr>
-
 
     <tr>
       <td>4</td>
@@ -251,15 +223,12 @@ Sequence| Date | Description
 		<ul>
 			<li>Introduction to MapReduce: Watch a Video
 			</li>
-
 			<li> <a href="https://www.youtube.com/watch?v=Zb9YW8XjxnE">Simplifying Big Data Applications with Apache Spark 2.0 by Matei Zaharia</a>
 			</li>
-
 			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >2nd half of Chapter 3 of Data-Intensive Text Processing with MapReduce</a>
 			</li>
 			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
 			</li>
-
 		</ul>
 		</td>  
     </tr>
@@ -271,12 +240,10 @@ Sequence| Date | Description
 		<ul>
 			<li>Introduction to MapReduce/Hadoop/Spark
 			</li>
-
 			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >Chapter 4 of Data-Intensive Text Processing with MapReduce</a>
 			</li>
 			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
 			</li>
-
 		</ul>
 		</td>  
     </tr>
@@ -288,14 +255,10 @@ Sequence| Date | Description
 		<ul>
 			<li>Practice MapReduce/Hadoop/Spark
 			</li>
-
-			<li> <a href="http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014?qid=a9e4b467-26b7-49a9-a361-8425876e9904&v=qf1&b=&from_search=4">
-            Introduction to Spark by Michael Armbrust</a>
+			<li> <a href="http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014">Introduction to Spark</a>
 			</li>
-
 			<li>
-			   <a href="http://cobweb.cs.uga.edu/~squinn/mmd_s15/lectures/lecture13_mar3.pdf">			   
-               Introduction to Spark by Shannon Quinn</a>
+			   <a href="http://cobweb.cs.uga.edu/~squinn/mmd_s15/lectures/lecture13_mar3.pdf">Introduction to Spark by Shannon Quinn</a>
 			</li>
 		</ul>
 		</td>  
@@ -308,18 +271,13 @@ Sequence| Date | Description
 		<ul>
 			<li>Spark Nuts and Bolts
 			</li>
-
-			<li> <a href="https://www.youtube.com/watch?v=Nev1s6fHwMI">
-			      Making Big Data Simple: by Matei Zaharia</a>
+			<li> <a href="https://www.youtube.com/watch?v=Nev1s6fHwMI">Making Big Data Simple: by Matei Zaharia</a>
 			</li>
-
 			<li>
-			   <a href="http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014?qid=a9e4b467-26b7-49a9-a361-8425876e9904&v=qf1&b=&from_search=4">			   Introduction to Spark</a>
+			   <a href="http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014">Introduction to Spark</a>
 			</li>
-			<li> <a href="http://ampcamp.berkeley.edu/wp-content/uploads/2013/02/Parallel-Programming-With-Spark-Matei-Zaharia-Strata-2013.pptx">
-			      Parallel-Programming-With-Spark-Matei-Zaharia</a>
+			<li> <a href="http://ampcamp.berkeley.edu/wp-content/uploads/2013/02/Parallel-Programming-With-Spark-Matei-Zaharia-Strata-2013.pptx">Parallel-Programming-With-Spark-Matei-Zaharia</a>
 			</li>
-
 		</ul>
 		</td>  
     </tr>
@@ -331,8 +289,7 @@ Sequence| Date | Description
 		<ul>
 			<li>MapReduce Design Patterns
 			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >
-			     Chapter 3 of Data-Intensive Text Processing with MapReduce</a>
+			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf">Chapter 3 of Data-Intensive Text Processing with MapReduce</a>
 			</li>		
 		</ul>
 		</td>
@@ -346,12 +303,10 @@ Sequence| Date | Description
 		<ul>
 			<li>MapReduce Design Patterns
 			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >
-			     Chapter 4 of Data-Intensive Text Processing with MapReduce</a>
+			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf">Chapter 4 of Data-Intensive Text Processing with MapReduce</a>
 			</li>		
 		</ul>
 		</td>
-
     </tr>
 
     <tr>

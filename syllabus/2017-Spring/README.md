@@ -210,34 +210,20 @@ However, you must keep up with the reading assignments.
 	* MapReduce Design Patterns  
 	* [Chapter 4 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)    
 ----------------	
-* 10: May 4, 2017
-	* Midterm Exam: closed book/notes  
----------------- 
-	
-
-    <tr>
-      <td>11</td>
-      <td align="left">May 9, 2017</td>
-      <td align="right">MapReduce Design Pattern: Top-10</td>
-    </tr>
-
-    <tr>
-      <td>12</td>
-      <td align="left">May 11, 2017</td>
-      <td align="right">MapReduce Design Pattern: mapPartitions()</td>
-    </tr>
-
-    <tr>
-      <td>13</td>
-      <td align="left">May 16, 2017</td>
-      <td align="right">MapReduce Design Pattern: Clustering Algorithms</td>
-    </tr>
-
-    <tr>
-      <td>14</td>
-      <td align="left">May 18, 2017</td>
-      <td align="right">MapReduce Design Pattern: Clustering Algorithms</td>
-    </tr>
+* 10: May 4, 2017: **Midterm Exam: closed book/notes** 
+----------------
+* 11: May 9, 2017
+	* MapReduce Design Pattern: Top-10  
+----------------
+* 12: May 11, 2017
+	* MapReduce Design Pattern: mapPartitions()  
+----------------
+* 13: May 16, 2017
+	* MapReduce Design Pattern: Clustering Algorithms  
+----------------
+* 14: May 18, 2017
+	* MapReduce Design Pattern: Clustering Algorithms  
+----------------
 
     <tr>
       <td>15</td>

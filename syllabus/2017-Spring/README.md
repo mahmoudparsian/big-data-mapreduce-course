@@ -160,6 +160,21 @@ Tentative Course Outline
 The weekly coverage might change as it depends on the progress of the class.  
 However, you must keep up with the reading assignments.
 
+Sequence| Date | Description
+--------|------|----------
+1.0     |Alpha |<ul><li>Supports</li><li>lists</li><li>with HTML</li></ul>
+2.0     |Alpha |<ul><li>Supports</li><li>lists</li><li>with HTML</li></ul>
+3.0     |Alpha |<ul><li>Supports</li><li>lists</li><li>with HTML</li></ul>
+
+<table>
+  <tbody>
+    <tr>
+      <th align="center">Sequence</th>
+      <th align="center">Date</th>
+      <th align="left">Description</th>
+    </tr>
+    </tbody>
+</table>
 
 <table>
   <tbody>
@@ -172,7 +187,7 @@ However, you must keep up with the reading assignments.
     <tr>
       <td>1</td>
       <td align="center">April 4, 2017</td>
-		<td>
+	  <td>
 		<ul>
 			<li>Introduction to Big Data
 			</li>

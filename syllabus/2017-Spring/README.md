@@ -188,96 +188,35 @@ However, you must keep up with the reading assignments.
 	* [Introduction to MapReduce and Hadoop by Matei Zaharia](http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf)    
 	* []()    
 
-* 5: 
-	* []()    
-	* []()    
-	* []()    
-	* []()    
-	* []()    
+* 5: April 18, 2017
+	* Introduction to MapReduce/Hadoop/Spark    
+	* [Chapter 4 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)    
+	* [Introduction to MapReduce and Hadoop by Matei Zaharia](http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf)    
 
+* 6: April 20, 2017
+	* Practice MapReduce/Hadoop/Spark    
+	* [Introduction to Spark](http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014)    
+	* [Introduction to Spark by Shannon Quinn](http://cobweb.cs.uga.edu/~squinn/mmd_s15/lectures/lecture13_mar3.pdf)    
 
-<table>
-     <tr>
-      <td>5</td>
-      <td align="center">April 18, 2017</td>
-		<td>
-		<ul>
-			<li>Introduction to MapReduce/Hadoop/Spark
-			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >Chapter 4 of Data-Intensive Text Processing with MapReduce</a>
-			</li>
-			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
-			</li>
-		</ul>
-		</td>  
-    </tr>
+* 7: April 25, 2017
+	* Spark Nuts and Bolts  
+	* [Making Big Data Simple: by Matei Zaharia](https://www.youtube.com/watch?v=Nev1s6fHwMI)    
+	* [Introduction to Spark](http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014)    
+	* [Parallel-Programming-With-Spark-Matei-Zaharia](http://ampcamp.berkeley.edu/wp-content/uploads/2013/02/Parallel-Programming-With-Spark-Matei-Zaharia-Strata-2013.pptx)    
 
-     <tr>
-      <td>6</td>
-      <td align="center">April 20, 2017</td>
-		<td>
-		<ul>
-			<li>Practice MapReduce/Hadoop/Spark
-			</li>
-			<li> <a href="http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014">Introduction to Spark</a>
-			</li>
-			<li>
-			   <a href="http://cobweb.cs.uga.edu/~squinn/mmd_s15/lectures/lecture13_mar3.pdf">Introduction to Spark by Shannon Quinn</a>
-			</li>
-		</ul>
-		</td>  
-    </tr>
+* 8: April 27, 2017
+	* MapReduce Design Patterns  
+	* [Chapter 3 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)    
 
-   <tr>
-      <td>7</td>
-      <td align="center">April 25, 2017</td>
-		<td>
-		<ul>
-			<li>Spark Nuts and Bolts
-			</li>
-			<li> <a href="https://www.youtube.com/watch?v=Nev1s6fHwMI">Making Big Data Simple: by Matei Zaharia</a>
-			</li>
-			<li>
-			   <a href="http://www.slideshare.net/jeykottalam/spark-sqlamp-camp2014">Introduction to Spark</a>
-			</li>
-			<li> <a href="http://ampcamp.berkeley.edu/wp-content/uploads/2013/02/Parallel-Programming-With-Spark-Matei-Zaharia-Strata-2013.pptx">Parallel-Programming-With-Spark-Matei-Zaharia</a>
-			</li>
-		</ul>
-		</td>  
-    </tr>
-
-    <tr>
-      <td>8</td>
-      <td align="center">April 27, 2017</td>
-		<td>
-		<ul>
-			<li>MapReduce Design Patterns
-			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf">Chapter 3 of Data-Intensive Text Processing with MapReduce</a>
-			</li>		
-		</ul>
-		</td>
-
-    </tr>
-
-    <tr>
-      <td>9</td>
-      <td align="center">May 2, 2017</td>
-		<td>
-		<ul>
-			<li>MapReduce Design Patterns
-			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf">Chapter 4 of Data-Intensive Text Processing with MapReduce</a>
-			</li>		
-		</ul>
-		</td>
-    </tr>
-
-    <tr>
-      <td>10</td>
-      <td align="left">May 4, 2017</td>
-      <td align="right">Midterm Exam: closed book/notes</td>
-    </tr>
+* 9: May 2, 2017
+	* MapReduce Design Patterns  
+	* [Chapter 4 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)    
+	
+* 10: May 4, 2017
+	* ----------------
+	* Midterm Exam: closed book/notes  
+	* ---------------- 
+	
 
     <tr>
       <td>11</td>

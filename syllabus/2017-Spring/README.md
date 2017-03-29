@@ -244,7 +244,7 @@ However, you must keep up with the reading assignments.
 ----------------
 * 21: Thursday, June 15, 2017, 5:45-7:45 PST: ** FINAL Exam**
 ----------------	
-
+----------------
 
 
 References:

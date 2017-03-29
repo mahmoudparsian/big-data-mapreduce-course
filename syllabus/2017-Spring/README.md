@@ -224,52 +224,26 @@ However, you must keep up with the reading assignments.
 * 14: May 18, 2017
 	* MapReduce Design Pattern: Clustering Algorithms  
 ----------------
-
-    <tr>
-      <td>15</td>
-      <td align="left">May 23, 2017</td>
-      <td align="right">MapReduce Design Pattern: Recommendation Algorithms</td>
-    </tr>
-
-     <tr>
-      <td>16</td>
-      <td align="left">May 25, 2017</td>
-      <td align="right">Introduction to HBase (Hadoop Database)</td>
-    </tr>  
-
-    <tr>
-      <td>17</td>
-      <td align="left">May 30, 2017</td>
-      <td align="right">Introduction to HBase (Hadoop Database)</td>
-    </tr>  
-
-
-    <tr>
-      <td>18</td>
-      <td align="left">June 1, 2017</td>
-      <td align="right">Relational Algebra and Big Data</td>
-    </tr>   
-
-    <tr>
-      <td>19</td>
-      <td align="center">June 6, 2017</td>
-      <td align="right">Introduction to Indexing & Search-</td>
-    </tr>
-
-    <tr>
-      <td>20</td>
-      <td align="center">June 8, 2017</td>
-      <td align="right">Review for Final Exam</td>
-    </tr>
-
-    <tr>
-      <td>21</td>
-      <td align="center">Thursday, June 15, 2017, 5:45-7:45 PST</td>
-      <td align="right">Final Exam</td>
-    </tr>
-
-  </tbody>
-</table>
+* 15: May 23, 2017: 
+	* MapReduce Design Pattern: Recommendation Algorithms 
+----------------
+* 16: May 25, 2017
+	* Introduction to HBase (Hadoop Database)  
+----------------
+* 17: May 30, 2017
+	* Introduction to HBase (Hadoop Database)  
+----------------
+* 18: June 1, 2017
+	* Relational Algebra and Big Data  
+----------------
+* 19: June 6, 2017
+	* Introduction to Indexing & Search  
+----------------
+* 20: June 6, 2017
+	* Review for Final Exam  
+----------------
+* 21: Thursday, June 15, 2017, 5:45-7:45 PST: ** FINAL Exam**
+----------------	
 
 
 

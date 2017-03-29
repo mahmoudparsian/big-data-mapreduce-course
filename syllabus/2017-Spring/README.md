@@ -180,7 +180,12 @@ However, you must keep up with the reading assignments.
 		</ul>
 		</td>
     </tr>
-
+   </tbody>
+  </table>
+ 
+    
+<table>
+  <tbody>
     <tr>
       <td>2</td>
       <td align="center">April 6, 2017</td>

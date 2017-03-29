@@ -9,7 +9,7 @@
 * Course MSIS 2627: Big Data Modeling & Analytics
 * Big-Data-MapReduce Course @ Santa Clara University
 * Class number: 52085
-* Class duration: April 3 - June 9, 2017
+* Class duration: April 4 - June 15, 2017
 * Class hours: 
 	* Tuesday 5:45pm - 7:00pm PST
 	* Thursday 5:45pm - 7:00pm PST
@@ -25,7 +25,7 @@
 
 ## Exam Dates
 * Midterm Exam: May (To-Be-Determined-Later), 2017 from 5:45pm to 7:00pm PST
-* Final Exam: Tuesday, June 13, 2017 from 5:45pm-7:45pm PST
+* Final Exam: Thursday, June 15, 2017 from 5:45pm-7:45pm PST
 
 ## Course Description
 The main focus of this class is to cover the following concepts:

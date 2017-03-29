@@ -161,28 +161,19 @@ The weekly coverage might change as it depends on the progress of the class.
 However, you must keep up with the reading assignments.
 
 
-<table>
-  <tbody>
+* 1: April 4, 2017
+	* Introduction to Big Data
+	* [Chapter 1 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
+	* [A Very Brief Introduction to MapReduce](http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)
+	* [Introduction to MapReduce](http://lsd.ls.fi.upm.es/lsd/nuevas-tendencias-en-sistemas-distribuidos/IntroToMapReduce_2.pdf)	    
+			
 
-    <tr>
-      <td>1</td>
-      <td align="center">April 4, 2017</td>
-		<td>
-		<ul>
-			<li>Introduction to Big Data
-			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf">Chapter 1 of Data-Intensive Text Processing with MapReduce</a>
-			</li>
-			<li> <a href="http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf">A Very Brief Introduction to MapReduce </a>
-			</li>
-			<li> <a href="http://lsd.ls.fi.upm.es/lsd/nuevas-tendencias-en-sistemas-distribuidos/IntroToMapReduce_2.pdf">Introduction to MapReduce</a>		    
-			</li>
-		</ul>
-		</td>
-    </tr>
-   </tbody>
-  </table>
- 
+* 2: April 6, 2017
+	* Introduction to Big Data
+	* [Chapter 1 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
+	* [A Very Brief Introduction to MapReduce](http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)
+	* [Introduction to MapReduce](http://lsd.ls.fi.upm.es/lsd/nuevas-tendencias-en-sistemas-distribuidos/IntroToMapReduce_2.pdf)	    
+			
     
 <table>
   <tbody>

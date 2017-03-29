@@ -166,71 +166,37 @@ However, you must keep up with the reading assignments.
 	* [Chapter 1 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
 	* [A Very Brief Introduction to MapReduce](http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)
 	* [Introduction to MapReduce](http://lsd.ls.fi.upm.es/lsd/nuevas-tendencias-en-sistemas-distribuidos/IntroToMapReduce_2.pdf)	    
-	* Some Markdown text with <span style="color:blue">some *blue* text</span>.
 		
 
 * 2: April 6, 2017
 	* Introduction to Big Data
-	* [Chapter 1 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
-	* [A Very Brief Introduction to MapReduce](http://hci.stanford.edu/courses/cs448g/a2/files/map_reduce_tutorial.pdf)
-	* [Introduction to MapReduce](http://lsd.ls.fi.upm.es/lsd/nuevas-tendencias-en-sistemas-distribuidos/IntroToMapReduce_2.pdf)	    
-	* Some Markdown text with <span style="color:purple">some *purple* text</span>.
+	* [Introduction to MapReduce by Mahmoud Parsian](http://mapreduce4hackers.com/docs/Introduction-to-MapReduce.pdf)
+	* [Chapter 2 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)
+	* [Introduction to MapReduce and Hadoop by Matei Zaharia](http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf)	    
 			
-    
+
+* 3: April 11, 2017
+	* Introduction to MapReduce: Watch a Video    
+	* [The Future of Big Data by Matei Zaharia](https://www.youtube.com/watch?v=oSj2vYw5RLs)    
+	* [1st half of Chapter 3 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)    
+	* [Introduction to MapReduce and Hadoop by Matei Zaharia](http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf)    
+
+* 4: April 13, 2017
+	* Introduction to MapReduce: Watch a Video    
+	* [Simplifying Big Data Applications with Apache Spark 2.0 by Matei Zaharia](https://www.youtube.com/watch?v=Zb9YW8XjxnE)    
+	* [2nd half of Chapter 3 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf)    
+	* [Introduction to MapReduce and Hadoop by Matei Zaharia](http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf)    
+	* []()    
+
+* 5: 
+	* []()    
+	* []()    
+	* []()    
+	* []()    
+	* []()    
+
+
 <table>
-  <tbody>
-    <tr>
-      <td>2</td>
-      <td align="center">April 6, 2017</td>
-		<td>
-		<ul>
-			<li>Introduction to MapReduce
-			</li>
-			<li>
-				<a href="http://mapreduce4hackers.com/docs/Introduction-to-MapReduce.pdf">Introduction to MapReduce by Mahmoud Parsian</a>
-			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf">Chapter 2 of Data-Intensive Text Processing with MapReduce</a>
-			</li>
-			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
-			</li>
-		</ul>
-		</td>
-    </tr>
-
-    <tr>
-      <td>3</td>
-      <td align="center">April 11, 2017</td>
-		<td>
-		<ul>
-			<li>Introduction to MapReduce: Watch a Video
-			</li>
-			<li> <a href="https://www.youtube.com/watch?v=oSj2vYw5RLs">The Future of Big Data by Matei Zaharia</a>
-			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >1st half of Chapter 3 of Data-Intensive Text Processing with MapReduce</a>
-			</li>
-			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
-			</li>
-		</ul>
-		</td>
-    </tr>
-
-    <tr>
-      <td>4</td>
-      <td align="center">April 13, 2017</td>
-		<td>
-		<ul>
-			<li>Introduction to MapReduce: Watch a Video
-			</li>
-			<li> <a href="https://www.youtube.com/watch?v=Zb9YW8XjxnE">Simplifying Big Data Applications with Apache Spark 2.0 by Matei Zaharia</a>
-			</li>
-			<li> <a href="http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf" >2nd half of Chapter 3 of Data-Intensive Text Processing with MapReduce</a>
-			</li>
-			<li> <a href="http://www.cs.berkeley.edu/~matei/talks/2010/amp_mapreduce.pdf">Introduction to MapReduce and Hadoop by Matei Zaharia</a>
-			</li>
-		</ul>
-		</td>  
-    </tr>
-
      <tr>
       <td>5</td>
       <td align="center">April 18, 2017</td>

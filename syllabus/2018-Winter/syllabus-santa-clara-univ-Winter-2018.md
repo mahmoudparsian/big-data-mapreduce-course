@@ -1,16 +1,14 @@
-[Santa Clara University](http://scu.edu/)
------------------------------------------
+## [Santa Clara University](http://scu.edu/)
 
 
-Big Data Modeling and Analytics
-===============================
+## Big Data Modeling and Analytics
+
 Course Information: 
 
 * Winter 2018
 * January 8, 2018 - March 13, 2018
 
-================================
- [MSIS 2627 : Big Data Modeling and Analytics](https://legacy.scu.edu/legacy/courseavail/t4/catalog.cfm?subject=MSIS&acad_career=GRAD#collapse11)
+## [MSIS 2627 : Big Data Modeling and Analytics](https://legacy.scu.edu/legacy/courseavail/t4/catalog.cfm?subject=MSIS&acad_career=GRAD#collapse11)
 
  * Class hours:
  	* Tuesday, 5:45pm - 7:00pm PST
@@ -29,16 +27,16 @@ Course Information:
  * Office Hours: TBDL
 
 
-Course Description & Objectives
-===============================
+## Course Description & Objectives
+
 * The purpose of this class is to understand the fundamentals of 
 big data and use Spark, PySpark, and Hadoop to solve simple big 
 data problems. 
 
 * Another purpose is to use SQL for NoSQL data
 
-Objectives
-----------
+## Objectives
+
 At the completion of this course, students will be able to understand:
 
 * What is MapReduce? Examples of MapReduce
@@ -54,8 +52,7 @@ At the completion of this course, students will be able to understand:
 * Big Table: HBase
 * SQL for NoSQL data & Relational Algebra
 
-Required books (all resources are online)
-=========================================
+## Required books (all resources are online)
 
 * [1. Introduction to MapReduce by Mahmoud Parsian](http://mapreduce4hackers.com/docs/Introduction-to-MapReduce.pdf)
 
@@ -65,8 +62,8 @@ Required books (all resources are online)
 
 
 
-References and Papers
----------------------
+### References and Papers
+
 
 * [1. Big Data Now -- book](http://www.oreilly.com/data/free/files/bigdatanow2013.pdf)
 
@@ -77,8 +74,7 @@ References and Papers
 * [4: Bigtable: A Distributed Storage System for Structured Data](https://github.com/mahmoudparsian/big-data-mapreduce-course/tree/master/slides/mapreduce/Bigtable_A_Distributed_Storage_System_for_Structured_Data.pdf)
 
 
-Grade Distribution:
-===================
+## Grade Distribution:
 
 Midterm and final exams are closed book/notes.
 
@@ -95,8 +91,8 @@ Midterm and final exams are closed book/notes.
   Bonus        | 5%   
 
 
-Letter Grade Distribution:
---------------------------
+## Letter Grade Distribution:
+
 
 Grade | Scale of 1 to 4
 ------|----------------
@@ -111,15 +107,13 @@ C-    | 1.7
 F     | 0.0		
 
 
-Grading Scale 
--------------
+## Grading Scale 
 Letter Grade | Percentage Points
 -------------| -----------------A+           | 100 – 97A            | 96.9 – 93A-           | 92.9 – 90B+           | 89.9 – 87B            | 86.9 – 83B-           | 82.9 – 80C+           | 79.9 – 77C            | 76.9 – 73C-           | 72.9 – 70D+           | 69.9 – 67D            | 66.9 – 63D-           | 62.9 – 60F            | Below 60
 
 
 
-Course Policies
-===============
+## Course Policies
 
 General
 -------
@@ -169,8 +163,7 @@ preparation of any work.
 be clearly documented, cited, and attributed, regardless of media or distribution.
 
 
-Tentative Course Outline
-========================
+## Tentative Course Outline
 
 The weekly coverage might change as it depends on the progress of the class.  
 However, you must keep up with the reading assignments.

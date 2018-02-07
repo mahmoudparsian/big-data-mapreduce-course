@@ -109,7 +109,20 @@ F     | 0.0
 
 ## Grading Scale 
 Letter Grade | Percentage Points
--------------| -----------------A+           | 100 – 97A            | 96.9 – 93A-           | 92.9 – 90B+           | 89.9 – 87B            | 86.9 – 83B-           | 82.9 – 80C+           | 79.9 – 77C            | 76.9 – 73C-           | 72.9 – 70D+           | 69.9 – 67D            | 66.9 – 63D-           | 62.9 – 60F            | Below 60
+-------------| -----------------
+A+           | 100 – 97
+A            | 96.9 – 93
+A-           | 92.9 – 90
+B+           | 89.9 – 87
+B            | 86.9 – 83
+B-           | 82.9 – 80
+C+           | 79.9 – 77
+C            | 76.9 – 73
+C-           | 72.9 – 70
+D+           | 69.9 – 67
+D            | 66.9 – 63
+D-           | 62.9 – 60
+F            | Below 60
 
 
 
@@ -235,16 +248,19 @@ However, you must keep up with the reading assignments.
 	 
 ----------------
 * 9: February 6, 2018
-	* MapReduce Design Patterns  
+	* MapReduce Design Patterns
+	* Top-10 Algorithm
+	* MinMax Algorithm
 	* [Chapter 4 of Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/ed1n/MapReduce-algorithms.pdf) 
 	   
 ----------------	
-* 10: February 8, 2018: **Midterm Exam: closed book/notes** 
+* 10: February 8, 2018: 
+	* Review Midterm Exam
+	* MapReduce Design Pattern: Top-10  
 
 ----------------
-* 11: February 13, 2018
+* 11: February 13, 2018  **Midterm Exam: closed book/notes** 
 
-	* MapReduce Design Pattern: Top-10  
 	
 ----------------
 * 12: February 15, 2018

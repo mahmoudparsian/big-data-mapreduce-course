@@ -117,7 +117,20 @@ source $SPARK_HOME/zbin/env_setup.sh
 $SPARK_HOME/sbin/stop-all.sh
 ````
 
-9. Create a file called `/home/alex/spark-2.3.0/zbin/start-pyspark-shell.sh`
+9. Create a file called `/home/alex/spark-2.3.0/zbin/start-jupyter.sh`. This script allows you write code with jupyter notebook.
+
+````
+cat /home/alex/spark-2.3.0/zbin/start-jupyter.sh
+#
+export SPARK_HOME=/home/alex/spark-2.3.0
+#
+source $SPARK_HOME/zbin/env_setup.sh
+#
+jupyter notebook
+````
+
+
+10. Create a file called `/home/alex/spark-2.3.0/zbin/start-pyspark-shell.sh`
 
 ````
 cat /home/alex/spark-2.3.0/zbin/start-pyspark-shell.sh
@@ -129,13 +142,13 @@ source $SPARK_HOME/zbin/env_setup.sh
 $SPARK_HOME/bin/pyspark
 ````
 
-10. Make all your scripts executable
+11. Make all your scripts executable
 
 ````
 chmod a+rx /home/alex/spark-2.3.0/zbin/*
 ````
 
-11. Now Start your Spark cluster
+12. Now Start your Spark cluster
 
 ````
 /home/alex/spark-2.3.0/zbin/start-spark.sh
@@ -161,26 +174,34 @@ From `System Preferences`, select `Sharing`, and then turn on `Remote Login`.
 
 
 
-12. Verify that your Spark cluster is running:
+13. Verify that your Spark cluster is running:
 check:  `http://localhost:8080`
 
 
-13. Now Stop your Spark cluster
+14. Now Stop your Spark cluster
 
 ````
 /home/alex/spark-2.3.0/zbin/stop-spark.sh
 ````
 
 
-14. Now again Start your Spark cluster
+15. Now again Start your Spark cluster
 
 ````
 /home/alex/spark-2.3.0/zbin/start-spark.sh
 ````
 
-## Start PySpark Shell
 
-To start interactive PySpark Shell, execute the following:
+## Start PySpark Shell or Jupyter Notebook
+
+
+To start interactive jupyter notebook, execute the following:
+
+````
+/home/alex/spark-2.3.0/zbin/start-jupyter.sh
+````
+
+You could also choose to use interactive PySpark Shell, execute the following:
 
 ````
 /home/alex/spark-2.3.0/zbin/start-pyspark-shell.sh
